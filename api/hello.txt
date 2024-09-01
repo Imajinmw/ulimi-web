@@ -1,0 +1,7 @@
+{
+"createSeal": "hdjd",
+"user": "1",
+"gpsTime": "29 March 2023, 00:32",
+"1": "Yes, they are closed",
+"4": "Yes"
+}
